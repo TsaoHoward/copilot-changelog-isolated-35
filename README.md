@@ -23,3 +23,5 @@ video → feedback-video. Six-article counts remain a production gate while the
 old caller remains active; they are not the replacement's permanent target.
 
 Hosted #35: these unchanged extracts are served at this isolated repository’s raw URLs. They are fixture observations, never production captures. RSS uses those fixture URLs. No production archive is copied.
+
+Synthetic failure: z-unsupported.html uses main.acceptance-new-layout, which the reviewed renderer does not recognize. Independent expectation: Capture persists exact bytes, Render rejects the whole stage without partial promotion. A narrow isolated renderer repair later preserves the H1 and durablerecoverytoken paragraph offline.
