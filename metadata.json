@@ -40,7 +40,11 @@
         "discovery_title": "Synthetic unsupported-layout failure",
         "discovery_published_at": null
       },
-      "canonical": null
+      "canonical": {
+        "title": "Isolated saved-source recovery",
+        "published_at": null,
+        "publication_path": "/posts/z-unsupported/"
+      }
     }
   }
 }
