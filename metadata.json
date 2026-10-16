@@ -1,0 +1,27 @@
+{
+  "schema_version": 2,
+  "articles": {
+    "feedback-video-b48acbc9a6d2": {
+      "article_id": "feedback-video-b48acbc9a6d2",
+      "source_url": "https://raw.githubusercontent.com/TsaoHoward/copilot-changelog-isolated-35/acceptance-source/feedback-video.html",
+      "capture": {
+        "snapshot_sha256": "68f6656cd7403b3ffbbe0c20931df76336097ceeee3f461733f62869889f5c47",
+        "observed_at": "2026-10-16T02:53:53.664Z",
+        "discovery_title": "Feedback video extract",
+        "discovery_published_at": null
+      },
+      "canonical": null
+    },
+    "weekly-skills-cffc1b58520e": {
+      "article_id": "weekly-skills-cffc1b58520e",
+      "source_url": "https://raw.githubusercontent.com/TsaoHoward/copilot-changelog-isolated-35/acceptance-source/weekly-skills.html",
+      "capture": {
+        "snapshot_sha256": "1ec52d0b3f10c4e7984e51a288c25d7a316f468d77d13c856a79a8fd871f1a3e",
+        "observed_at": "2026-10-16T02:53:53.782Z",
+        "discovery_title": "Weekly skills extract",
+        "discovery_published_at": null
+      },
+      "canonical": null
+    }
+  }
+}
