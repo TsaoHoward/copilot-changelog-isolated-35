@@ -30,6 +30,17 @@
         "published_at": null,
         "publication_path": "/posts/weekly-skills/"
       }
+    },
+    "z-unsupported-cb0b7ee387c3": {
+      "article_id": "z-unsupported-cb0b7ee387c3",
+      "source_url": "https://raw.githubusercontent.com/TsaoHoward/copilot-changelog-isolated-35/acceptance-source/z-unsupported.html",
+      "capture": {
+        "snapshot_sha256": "82060fcf0be2bbcbe2d6534ebc73a8e59bc4230bb2ec41f88f841d65adbdc880",
+        "observed_at": "2026-10-16T03:05:18.870Z",
+        "discovery_title": "Synthetic unsupported-layout failure",
+        "discovery_published_at": null
+      },
+      "canonical": null
     }
   }
 }
