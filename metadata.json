@@ -10,7 +10,11 @@
         "discovery_title": "Feedback video extract",
         "discovery_published_at": null
       },
-      "canonical": null
+      "canonical": {
+        "title": "GPT-6.1 Sol in GitHub Copilot",
+        "published_at": null,
+        "publication_path": "/posts/feedback-video/"
+      }
     },
     "weekly-skills-cffc1b58520e": {
       "article_id": "weekly-skills-cffc1b58520e",
@@ -21,7 +25,11 @@
         "discovery_title": "Weekly skills extract",
         "discovery_published_at": null
       },
-      "canonical": null
+      "canonical": {
+        "title": "GitHub Copilot weekly releases — September 21",
+        "published_at": null,
+        "publication_path": "/posts/weekly-skills/"
+      }
     }
   }
 }
