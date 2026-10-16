@@ -53,6 +53,7 @@ function editorialRoot(
   }
   for (const selector of [
     "article",
+    "main.acceptance-new-layout",
     ".wp-block-changelog-entry__content",
     ".changelog-entry__content",
     ".entry-content",

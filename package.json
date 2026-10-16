@@ -22,7 +22,7 @@
     "pages": "node --import tsx src/v2/pages-cli.ts",
     "cutover": "node --import tsx src/v2/cutover-cli.ts",
     "capture:directory": "node --import tsx src/v2/capture-directory-cli.ts",
-    "render:directory": "node --import tsx src/v2/render-directory-cli.ts"
+    "render:directory": "COPILOT_NETWORK_LOG=\"$RUNNER_TEMP/render-source-attempts.log\" node --import ./tests/v2/block-network.mjs --import tsx src/v2/render-directory-cli.ts && test ! -s \"$RUNNER_TEMP/render-source-attempts.log\" && echo \"Isolated acceptance: zero attempted source acquisition\" >&2"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "7.3.2",
